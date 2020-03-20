@@ -114,7 +114,7 @@
         <dependency>
             <groupId>com.clouddefense.plugins</groupId>
             <artifactId>maven-clouddefense-plugin</artifactId>
-            <version>1.0.0</version>
+            <version>1.0.1</version>
             <type>maven-plugin</type>
         </dependency>
     </dependencies>
